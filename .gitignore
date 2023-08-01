@@ -4,9 +4,9 @@
 .vscode/launch.json
 .vscode/ipch
 .vscode/extensions.json
-include/
-lib/
-test/
-platform.ini
-tktest.py
-temp_base.py
+#include/
+#lib/
+#test/
+#platform.ini
+#tktest.py
+#temp_base.py
